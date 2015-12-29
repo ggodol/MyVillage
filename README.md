@@ -5,6 +5,8 @@ My first Game Project by myself.
 ---
 15.12.23 프로젝트 기획, 설계  
 15.12.24 Test용 UI 제작
+15.12.28 UI 추가(상단바 제작)
+![UI](http://dl.dropbox.com/s/4knfdz7rlrw7tbo/1.png)
 
 ### 1. 트리트먼트 기획
 ---
